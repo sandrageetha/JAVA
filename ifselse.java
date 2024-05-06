@@ -1,4 +1,4 @@
-public class Demo{
+public class ifselse{
     public static void main(String[] args){
         int num =8;
         if(num>10)
